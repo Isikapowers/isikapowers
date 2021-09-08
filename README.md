@@ -4,7 +4,7 @@
 - 🌱 I’ve learned Ruby and am now currently learning Ruby on Rails...
 - 😄 Pronouns: she/her
 
-###📫 How to reach me:
+📫 ### How to reach me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isika)
 &nbsp;
