@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-<!--
+![Isika's GitHub stats](https://github-readme-stats.vercel.app/api?username=isikapowers&show_icons=true)
+
+
 **Isikapowers/isikapowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @isikapowers
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
--->
+
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers)](https://github.com/isikapowers/github-readme-stats)
