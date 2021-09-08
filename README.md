@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - 
 - 📫 How to reach me: @isikapowers
-- <a href=”https://www.linkedin.com/in/isika"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+![href=”https://www.linkedin.com/in/isika"](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
 
 
 ##
