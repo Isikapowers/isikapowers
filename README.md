@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-![Isika's GitHub stats](https://github-readme-stats.vercel.app/api?username=isikapowers&show_icons=true&theme=nord)
+![Isika's GitHub stats](https://github-readme-stats.vercel.app/api?username=isikapowers&show_icons=true&theme=nightowl)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers)](https://github.com/isikapowers/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers)](https://github.com/isikapowers/github-readme-stats&theme=nightowl)
