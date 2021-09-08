@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers&layout=compact&theme=nightowl)](https://github.com/isikapowers/github-readme-stats)
 
 ## 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isikapowers&repo=github-readme-stats&theme=nightowl)](https://github.com/isikapowers/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isikapowers&repo=github-readme-stats)](https://github.com/isikapowers/github-readme-stats)
 
