@@ -6,8 +6,13 @@
 
 ##
 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) LinkedIn](”https://www.linkedin.com/in/isika")&nbsp;
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isika)
+&nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/isikapowers)
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) LinkedIn](”https://www.linkedin.com/in/isika")&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/isikapowers) -->
 
 
 ##
