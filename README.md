@@ -1,6 +1,6 @@
 ### Hi, I'm Isika! 👋
 
-##### Checkout my github and feel free to reach out with any questions!
+#### Checkout my github and feel free to reach out with any questions!
 
  * 🔭 I’m currently a backend engineering student at Turing.
  * 🌱 I’ve learned Ruby and am now currently learning Ruby on Rails...
