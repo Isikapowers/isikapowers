@@ -14,7 +14,7 @@
 
 ### Connect with Me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn) LinkedIn](https://www.linkedin.com/in/isika)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/isika)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/isikapowers)
 
