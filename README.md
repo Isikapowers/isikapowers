@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers)](https://github.com/isikapowers/github-readme-stats)
-
 ### Hi there! 👋
 
 <!--
@@ -15,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers)](https://github.com/isikapowers/github-readme-stats)
