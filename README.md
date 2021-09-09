@@ -1,4 +1,4 @@
-## Hi, I'm Isika! 👋
+## 👋 👋 Hi, I'm Isika! 👋 👋
 
 #### I am currently enrolling in the backend engineering program at [Turing school](https://turing.edu/).  I am a tech enthusiast and always open to collaborating on projects and innovate/disruptive ideas.  Find out more about me and feel free to connect with me here:
 
@@ -10,7 +10,7 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
