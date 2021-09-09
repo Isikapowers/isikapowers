@@ -7,7 +7,7 @@
  * 😄 Pronouns: she/her
 
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-isikapowers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
+[![Linkedin Badge](https://img.shields.io/badge/-isika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
 [![Gmail Badge](https://img.shields.io/badge/-isika.powers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:isika.powers@gmail.com)
 
 ### ⚡ Technologies
