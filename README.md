@@ -1,4 +1,4 @@
-### Hi, I'm Isika! 👋
+## Hi, I'm Isika! 👋
 
 #### Checkout my github and feel free to reach out with any questions!
 
@@ -6,11 +6,11 @@
  * 🌱 I’ve learned Ruby and am now currently learning Ruby on Rails...
  * 😄 Pronouns: she/her
 
-###
+##
 [![Linkedin Badge](https://img.shields.io/badge/-isika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
 [![Gmail Badge](https://img.shields.io/badge/-isika.powers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:isika.powers@gmail.com)
 
-### ⚡ Technologies
+## ⚡ Technologies
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -41,11 +41,12 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
  -->
-###
+
+##
 ![Isika's GitHub stats](https://github-readme-stats.vercel.app/api?username=isikapowers&show_icons=true&theme=nightowl)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikapowers&layout=compact&theme=nightowl)](https://github.com/isikapowers/github-readme-stats)
 
-
-
+##
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
