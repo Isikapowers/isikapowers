@@ -5,6 +5,7 @@
 ##
 [![Linkedin Badge](https://img.shields.io/badge/-isika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
 [![Gmail Badge](https://img.shields.io/badge/-isika.powers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:isika.powers@gmail.com)
+[![Github Badge](<a href="https://github.com/isikapowers" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>)
 
 ## ⚡ Technologies
 
