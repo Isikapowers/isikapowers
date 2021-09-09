@@ -1,7 +1,5 @@
 ## 👋 👋 Hi, I'm Isika! 👋 👋
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
 #### I am currently enrolling in the backend engineering program at [Turing school](https://turing.edu/).  I am a tech enthusiast and always open to collaborating on projects and innovate/disruptive ideas.  Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-isika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
