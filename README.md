@@ -11,6 +11,7 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Travis CI](https://camo.githubusercontent.com/14caeafb23e1ae6bc0cea913a2c39d895ec4eb64c885ba86daffd001c42fab1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7472617669732d2d63692d3731313943322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d747261766973266c6f676f436f6c6f723d7768697465)
+![ActiveRecord](https://camo.githubusercontent.com/63172ff88a7745bc0cdff2156be4bf5ef8b033aa69ed9dec8beb016267b15207/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4163746976655265636f72642532302d3230314538342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4163746976655265636f7264266c6f676f436f6c6f723d7768697465)
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
