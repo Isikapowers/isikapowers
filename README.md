@@ -15,7 +15,8 @@
 ![ActiveRecord](https://camo.githubusercontent.com/63172ff88a7745bc0cdff2156be4bf5ef8b033aa69ed9dec8beb016267b15207/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4163746976655265636f72642532302d3230314538342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4163746976655265636f7264266c6f676f436f6c6f723d7768697465)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<!-- ![SQL](https://camo.githubusercontent.com/cc5c126c3a22cd77a92a45064d7398d7cf3c5692e0da6352782f9b99abede53e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532302d3731313943322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53514c266c6f676f436f6c6f723d7768697465) -->
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 
 ### Frameworks:
 
