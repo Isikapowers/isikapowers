@@ -1,6 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello, there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-#### I am a tech enthusiast and always open to collaborating on projects and innovate/disruptive ideas.  Find out more about me and feel free to connect with me here:
+#### I am a software developer who is always open to collaborating on projects and innovative ideas(hint: if you think your idea can change the world or making it a bit better than before for the next generations, I am totally your person).  Embarassingly, I love puzzles and solving problems--I basically would not move an inch until I solved it.  With my background in Marketing and Sales, I love building apps that clients would enjoy using and of course creating the best user experience possible.  
+
+Let's connect!:
 
 [![Linkedin Badge](https://img.shields.io/badge/-isika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/isika/)
 [![Gmail Badge](https://img.shields.io/badge/-isika.powers@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:isika.powers@gmail.com)
