@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hello, there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-#### :rocket::rocket::rocket: I am a software developer who is always open to collaborating on projects and innovative ideas(hint: if you think your idea can change the world or making it a bit better than before for the next generations, I am totally your person).  Embarassingly, I love puzzles and solving problems--I basically would not move an inch until I solved it.  With my background in Marketing and Sales, I love building apps that clients would enjoy using and of course creating the best user experience possible. :rocket::rocket::rocket:  
+#### :rocket::rocket::rocket: I am a software developer who is always open to collaborating on projects and innovative ideas (hint: if you think your idea can change the world or making it a bit better than before for the next generations, I am totally your person).  Embarassingly, I love puzzles and solving problems--I basically would not move an inch until I solved it.  With my background in Marketing and Sales, I love building apps that clients would enjoy using and of course creating the best user experience possible. :rocket::rocket::rocket:  
 
 Let's connect!:
 
