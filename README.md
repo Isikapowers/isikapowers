@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <!-- ![SQL](https://camo.githubusercontent.com/cc5c126c3a22cd77a92a45064d7398d7cf3c5692e0da6352782f9b99abede53e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532302d3731313943322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53514c266c6f676f436f6c6f723d7768697465) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -31,6 +32,7 @@
 ### Tools:
 
 ![Travis CI](https://camo.githubusercontent.com/14caeafb23e1ae6bc0cea913a2c39d895ec4eb64c885ba86daffd001c42fab1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7472617669732d2d63692d3731313943322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d747261766973266c6f676f436f6c6f723d7768697465)
+![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Atom](https://camo.githubusercontent.com/c0f06332081abc85aa79b6c93f931c352ffb2de3c5877c5082008e6da9dd3acd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41746f6d2d3230314538342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d61746f6d266c6f676f436f6c6f723d7768697465)
